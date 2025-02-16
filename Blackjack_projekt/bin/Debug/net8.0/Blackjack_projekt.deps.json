@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Blackjack_projekt/1.0.0": {
+        "runtime": {
+          "Blackjack_projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blackjack_projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

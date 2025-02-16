@@ -1,0 +1,14 @@
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\bin\Debug\net8.0\Blackjack_projekt.exe
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\bin\Debug\net8.0\Blackjack_projekt.deps.json
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\bin\Debug\net8.0\Blackjack_projekt.runtimeconfig.json
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\bin\Debug\net8.0\Blackjack_projekt.dll
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\bin\Debug\net8.0\Blackjack_projekt.pdb
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.AssemblyInfoInputs.cache
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.AssemblyInfo.cs
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.csproj.CoreCompileInputs.cache
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.dll
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\refint\Blackjack_projekt.dll
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.pdb
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\Blackjack_projekt.genruntimeconfig.cache
+C:\Users\prybk\Desktop\Semestr 5\Programowanie obiektowe\Blackjack_projekt\Blackjack_projekt\obj\Debug\net8.0\ref\Blackjack_projekt.dll
